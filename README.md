@@ -1,1 +1,1 @@
-This is a simple sheel alx project
+This is a simple shell alx project
